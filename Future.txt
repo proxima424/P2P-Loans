@@ -1,0 +1,2 @@
+// get loans from random person
+// add collateral functions

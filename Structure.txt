@@ -1,0 +1,36 @@
+//           Homepage             //
+
+           Protocol name
+
+           Launch App Button 
+
+    Problem we are trying to solve
+
+    A little stuff about blockchain and shit
+
+
+//                               // 
+
+
+//              Dashboard                      //
+
+In left hand column there will be some buttons clicking
+on which stuff will open on centre of screen
+(excluding the column)
+
+These buttons like : 1) Friends List : 
+                     2) Ongoing Payment
+                     3) Past Transactions 
+                     4) Get invoices 
+
+Transaction data to be stored = Amount transferred , Address involved , Date , Time .
+
+
+
+//            Borrow Money                    //
+Shows list of friends
+
+   
+
+
+//  M
