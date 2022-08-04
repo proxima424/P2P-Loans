@@ -1,29 +1,21 @@
 pragma solidity ^0.8.14 ;
 
-// loan struct
-
-
-
 contract Main {
-     public address owner ;
-
-     // sets the owner variable to the contract caller
-
+     public address owner;
      constructor(){            
         owner = msg.sender ;
      }
 
-   //keeps track of total users registered
-     private uint usercount ;  
-    
-   //can be used to check whether a user exists or not
+     public uint usercount ;  
+
+    //checks whether a user exists or not
      mapping (address => bool ) public exists ;
 
    //a struct to maintain data about user
      struct userdata {
         address useraddress ;
         bytes32 name ;
-        uint256 friendcount ;
+        uint256 relationcount ;
      }
 
    //maps each address to userdata struct

@@ -18,12 +18,3 @@ Params to be associated with a loan :
 5) Lender address/ENS
 6) Loan ID
 
-
-
-
-
-The scenario 
-can be like A has agreed to give loan to B in any cryptocurrency at a fixed
-interest rate . A will sanction this loan using our interface and B will 
-process all the future payments through our interface .
-
